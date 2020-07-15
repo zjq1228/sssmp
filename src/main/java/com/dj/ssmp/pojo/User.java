@@ -23,5 +23,7 @@ public class User {
      * 1运动 2看书 3游戏 6雷霆嘎巴  7 R3 4哇哈哈 5乌漆嘛黑
      */
     private Integer hobby;
+    
+    private Integer laofan
 
 }
