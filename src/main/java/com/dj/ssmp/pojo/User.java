@@ -20,7 +20,7 @@ public class User {
     private Integer sex;
     private String email;
     /**
-     * 1运动 2看书 3游戏
+     * 1运动 2看书 3游戏 6雷霆嘎巴  7 R3
      */
     private Integer hobby;
 
